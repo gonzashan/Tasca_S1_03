@@ -1,0 +1,194 @@
+1. Afganistán: Kabul
+2. Albania: Tirana
+3. Alemania: Berlín
+4. Andorra: Andorra la Vieja
+5. Angola: Luanda
+6. Antigua y Barbuda: Saint John
+7. Arabia Saudita: Riad
+8. Argelia: Argel
+9. Argentina: Buenos Aires
+10. Armenia: Ereván
+11. Australia: Canberra
+12. Austria: Viena
+13. Azerbaiyán: Bakú
+14. Bahamas: Nasáu
+15. Bangladés: Daca
+16. Barbados: Bridgetown
+17. Baréin: Manama
+18. Bélgica: Bruselas
+19. Belice: Belmopán
+20. Benín: Porto Novo
+21. Bielorrusia: Minsk
+22. Birmania: Niapyidó
+23. Bolivia: Sucre
+24. Bosnia y Herzegovina: Sarajevo
+25. Botsuana: Gaborone
+26. Brasil: Brasilia
+27. Brunéi: Bandar Seri Begawan
+28. Bulgaria: Sofía
+29. Burkina Faso: Uagadugú
+30. Burundi: Bujumbura
+31. Bután: Timbu
+32. Cabo Verde: Praia
+33. Camboya: Nom Pen
+34. Camerún: Yaundé
+35. Canadá: Ottawa
+36. Catar: Doha
+37. Chad: Yamena
+38. Chile: Santiago de Chile
+39. China: Pekín
+40. Chipre: Nicosia
+41. Ciudad del Vaticano: Ciudad del Vaticano
+42. Colombia: Bogotá
+43. Comoras: Moroni
+44. Corea del Norte: Pionyang
+45. Corea del Sur: Seúl
+46. Costa de Marfil: Yamusukro
+47. Costa Rica: San José
+48. Croacia: Zagreb
+49. Cuba: La Habana
+50. Dinamarca: Copenhague
+51. Dominica: Roseau
+52. Ecuador: Quito
+53. Egipto: El Cairo
+54. El Salvador: San Salvador
+55. Emiratos Árabes Unidos: Abu Dabi
+56. Eritrea: Asmara
+57. Eslovaquia: Bratislava
+58. Eslovenia: Liubliana
+59. España: Madrid
+60. Estados Unidos: Washington D. C.
+61. Estonia: Tallin
+62. Etiopía: Adís Adeba
+63. Filipinas: Manila
+64. Finlandia: Helsinki
+65. Fiyi: Suva
+66. Francia: París
+67. Gabón: Libreville
+68. Gambia: Banjul
+69. Georgia: Tiflis
+70. Ghana: Acra
+71. Granada: Saint George
+72. Grecia: Atenas
+73. Guatemala: Ciudad de Guatemala
+74. Guayana: Georgetown
+75. Guinea: Conakri
+76. Guinea-Bisáu: Bisáu
+77. Guinea ecuatorial: Malabo
+78. Haití: Puerto Príncipe
+79. Honduras: Tegucigalpa
+80. Hungría: Budapest
+81. India: Nueva Delhi
+82. Indonesia: Yakarta
+83. Irak: Bagdad
+84. Irán: Teherán
+85. Irlanda: Dublín
+86. Islandia: Reikiavik
+87. Islas Marshall: Majuro
+88. Islas Salomón: Honiara
+89. Israel: Jerusalén
+90. Italia: Roma
+91. Jamaica: Kingston
+92. Japón: Tokio
+93. Jordania: Amán
+94. Kazajistán: Astaná
+95. Kenia: Nairobi
+96. Kirguistán: Biskek
+97. Kiribati: Tarawa
+98. Kuwait: Kuwait
+99. Laos: Vientián
+100.Lesoto: Maseru
+101.Letonia: Riga
+102.Líbano: Beirut
+103.Liberia: Monrovia
+104.Libia: Trípoli
+105.Liechtenstein: Vaduz
+106.Lituania: Vilna
+107.Luxemburgo: Luxemburgo
+108.Madagascar: Antananarivo
+109.Malasia: Kuala Lumpur
+110.Malaui: Lilongüe
+111.Maldivas: Malé
+112.Malí: Bamako
+113.Malta: La Valeta
+114.Marruecos: Rabat
+115.Mauricio: Port Louis
+116.Mauritania: Nuakchot
+117.México: México D. F.
+118.Micronesia: Palikir
+119.Moldavia: Chisináu
+120.Mónaco: Mónaco
+121.Mongolia: Ulán Bator
+122.Montenegro: Podgorica
+123.Mozambique: Maputo
+124.Namibia: Windhoek
+125.Nauru: Yaren
+126.Nepal: Katmandú
+127.Nicaragua: Managua
+128.Níger: Niamey
+129.Nigeria: Abuya
+130.Noruega: Oslo
+131.Nueva Zelanda: Wellington
+132.Omán: Mascate
+133.Países Bajos: Amsterdam
+134.Pakistán: Islamabad
+135.Palaos: Ngerulmud
+136.Panamá: Panamá
+137.Papúa Nueva Guinea: Port Moresby
+138.Paraguay: Asunción
+139.Perú: Lima
+140.Polonia: Varsovia
+141.Portugal: Lisboa
+142.Reino Unido: Londres
+143.República Centroafricana: Bangui
+144.República Checa: Praga
+145.República de Macedonia: Skopie
+146.República del Congo: Brazzaville
+147.República Democrática del Congo: Kinsasa
+República Dominicana: Santo Domingo
+República Sudafricana: Pretoria
+Ruanda: Kigali
+Rumanía: Bucarest
+Rusia: Moscú
+Samoa: Apia
+San Cristóbal y Nieves: Basseterre
+San Marino: San Marino
+San Vicente y las Granadinas: Kingstown
+Santa Lucía: Castries
+Santo Tomé y Príncipe: Santo Tomé
+Senegal: Dakar
+Serbia: Belgrado
+Seychelles: Victoria
+Sierra Leona: Freetown
+Singapur: Singapur
+Siria: Damasco
+Somalia: Mogadiscio
+Sri Lanka: Sri Jayawardenapura Kotte
+Suazilandia: Mbabane
+Sudán: Jartum
+Sudán del Sur: Yuba
+Suecia: Estocolmo
+Suiza: Berna
+Surinam: Paramaribo
+Tailandia: Bangkok
+Tanzania: Dodoma
+Tayikistán: Dusambé
+Timor Oriental: Dili
+Togo: Lomé
+Tonga: Nukualofa
+Trinidad y Tobago: Puerto España
+Túnez: Túnez
+Turkmenistán: Asjabad
+Turquía: Ankara
+Tuvalu: Funafuti
+Ucrania: Kiev
+Uganda: Kampala
+Uruguay: Montevideo
+Uzbekistán: Taskent
+Vanuatu: Port Vila
+Venezuela: Caracas
+Vietnam: Hanói
+Yemen: Saná
+Yibuti: Yibuti
+Zambia: Lusaka
+Zimbabue: Harare
