@@ -1,5 +1,7 @@
 package n1exercici3;
 
+import resources.UtilsConsole;
+
 import java.util.Map;
 import java.util.Scanner;
 
@@ -20,8 +22,8 @@ public class N1exercici3 {
             int trickyRespond;
             String opc;
             do {
-                System.out.print(contestant.tabulate() + nameContestant
-                        + ", ¿HACEMOS TRAMPAS? \n" + contestant.tabulate() + "  [ Si ]       [ No ]  ");
+                UtilsConsole.typeWriter(contestant.tabulate() + nameContestant
+                        + ", ¿HACEMOS TRAMPAS? \n" + contestant.tabulate() + "  [ S ]       [ N ]  ");
 
                 opc = scanner.nextLine();
 
@@ -43,7 +45,7 @@ public class N1exercici3 {
             // Quiz starts
             for (Map.Entry<String, String> it : concurso.getSolutionContest().entrySet()) {
 
-                System.out.print(contestant.tabulate() + nameContestant
+                UtilsConsole.typeWriter(contestant.tabulate() + nameContestant
                         + ", capital de " + it.getKey()
                         + (tricky ? "\u001B[30m" + " " + it.getValue() + "\u001B[0m" : "")
                         + " es: ");

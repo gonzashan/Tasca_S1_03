@@ -143,7 +143,7 @@ public class ServiceReadFile {
     }
 
     public void progressBar() {
-        System.out.println("Cargando lista de paises...");
+        System.out.println("\nCargando lista de paises...");
         System.out.print("\t\t" + ' ');
         for (int i = 0; i < 35; i++) {
             timeDelay(51 - (i));

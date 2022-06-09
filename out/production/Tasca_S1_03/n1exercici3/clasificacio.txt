@@ -1,34 +1,34 @@
 
- Fecha concurso: Tue May 17 18:47:30 CEST 2022
+ Fecha concurso: Thu Jun 09 09:20:33 CEST 2022
 
- Nombre: Mariano RAjoy
+ Nombre: Pako
 
- Puntuación: 0
+ Puntuación: 8
 
  Tabla de resultados
 
 ───────────────────────────────────────────────────────────────────────────
       País                             Capital                    Puntos
 ───────────────────────────────────────────────────────────────────────────
-    República del Congo             Brazzaville                        0
+    Bielorrusia                     Minsk                              1
 ───────────────────────────────────────────────────────────────────────────
-    Palaos                          Ngerulmud                          0
+    Suiza                           Berna                              1
 ───────────────────────────────────────────────────────────────────────────
-    Senegal                         Dakar                              0
+    Bosnia y Herzegovina            Sarajevo                           1
 ───────────────────────────────────────────────────────────────────────────
-    Nicaragua                       Managua                            0
+    Zimbabue                        Harare                             1
 ───────────────────────────────────────────────────────────────────────────
-    Arabia Saudita                  Riad                               0
+    Países Bajos                    Amsterdam                          1
 ───────────────────────────────────────────────────────────────────────────
-    Afganistán                      Kabul                              0
+    Colombia                        Bogotá                             1
 ───────────────────────────────────────────────────────────────────────────
-    Islas Salomón                   Honiara                            0
+    Argentina                       Buenos Aires                       0
 ───────────────────────────────────────────────────────────────────────────
-    Bolivia                         Sucre                              0
+    El Salvador                     San Salvador                       1
 ───────────────────────────────────────────────────────────────────────────
-    Chile                           Santiago de Chile                  0
+    Emiratos Árabes Unidos          Abu Dabi                           1
 ───────────────────────────────────────────────────────────────────────────
-    Nigeria                         Abuya                              0
+    Eslovenia                       Liubliana                          0
 ───────────────────────────────────────────────────────────────────────────
 
 Gonzalo San Miguel Alonso ®

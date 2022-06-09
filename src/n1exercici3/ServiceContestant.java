@@ -1,6 +1,7 @@
 package n1exercici3;
 
 import n1exercici3.Exceptions.ExcepcioNomPersonaIncorrecte;
+import resources.UtilsConsole;
 
 import java.util.Scanner;
 
@@ -39,7 +40,7 @@ public class ServiceContestant {
         while (true) {
             try {
 
-                System.out.print(tabulate() + "Nombre del concursante: ".toUpperCase());
+                UtilsConsole.typeWriter(tabulate() + "Nombre del concursante: ".toUpperCase());
 
                 validName = scanner.nextLine();
 
